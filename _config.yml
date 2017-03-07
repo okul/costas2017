@@ -11,33 +11,33 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "COSTAS 2017"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "costas2017@sempozyum.uzem.omu.edu.tr"
+description: "COSTAS 2017"
 baseurl: "/costas2017"
 url: "http://etkinlikler.uzem.omu.edu.tr"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "OMÜ UZEM"
+organizerAlternateName: "OMÜ Uzaktan Eğitim Uygulama ve Araştırma Merkezi"
+organizerDescription: "Uzaktan eğitim ile ilgili araştırma-geliştirme ve uygulama çalışmaları yapar."
+organizerEmail: "costas2017@sempozyum.uzem.omu.edu.tr"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://uzem.omu.edu.tr/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "costas, uzem"
+twitterAccount: ""
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: ""
+c4sponsorsUrl: ""
 
 
 # Navigation
