@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "COSTAS 2017"
-email: "costas2017@sempozyum.uzem.omu.edu.tr"
+email: "costas2017@etkinlikler.uzem.omu.edu.tr"
 description: "COSTAS 2017"
 baseurl: "/costas2017"
 url: "http://etkinlikler.uzem.omu.edu.tr"
@@ -22,9 +22,9 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "OMÜ UZEM"
-organizerAlternateName: "OMÜ Distance Learning Center"
+organizerAlternateName: "OMÜ Distance Education Center"
 organizerDescription: "It conducts research and development and application studies related to distance education."
-organizerEmail: "costas2017@sempozyum.uzem.omu.edu.tr"
+organizerEmail: "costas2017@etkinlikler.uzem.omu.edu.tr"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://uzem.omu.edu.tr/"
 
@@ -91,19 +91,13 @@ venueSmallImage2: "venue_2.jpg"
 venueTitle: "UZEM CONFERENCE HALLS"
 venueFeatures: ["Large and small conference halls", "Quality audio system", "Located directly in the university"]
 
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
-
 # Partners Block
 organizersTitle: "Organizers"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: ""
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -127,16 +121,11 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://uzem.omu.edu.tr/", text: "UZEM.omu.edu.tr"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:costas2017@etkinlikler.uzem.omu.edu.tr ", text: "costas2017@etkinlikler.uzem.omu.edu.tr "}
 
 # Speakers List Block
 showSessions: true
