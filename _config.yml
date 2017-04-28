@@ -102,17 +102,68 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Registration fee includes the coffee-tea-cookies, lunches, gala dinner, and online book of abstracts, a conference bag and the certificate of participation/presentation. Reduced conference fees are available for students via the online registration system. When checking in at the conference, students will be asked to provide a copy of a valid Student ID, a confirmation from the supervisor, or other formal evidence of the student status. Due to limited capacity, early registration is recommended. One author can submit three virtual presentation in the congress by one registration fee. Author must pay an extra fee (€20 or 50 TL) if they wish to present more than three virtual presentation."
 ticketsOffers:
  -
-  name: "Standard"
-  price: "350"
-  priceCurrency: "UAH"
+  name: "Academic (Early)"
+  priceForeign: "100"
+  priceForeignCurrency: "EUR"
+  priceDomestic: "300"
+  priceDomesticCurrency: "TRY"
   ticketsNumber: "150"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#"
   buyButtonText: "Buy Now"
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2017-04-27T10:00"
+  validThrough: "2017-05-31T23:59"
+  disabled: false
+ -
+  name: "Academic"
+  priceForeign: "150"
+  priceForeignCurrency: "EUR"
+  priceDomestic: "350"
+  priceDomesticCurrency: "TRY"
+  ticketsNumber: "150"
+  buyButtonLink: "#"
+  buyButtonText: "Buy Now"
+  validFrom: "2017-06-01T10:00"
+  validThrough: "2017-06-30T23:59"
+  disabled: true
+ -
+  name: "Student (Early)"
+  priceForeign: "80"
+  priceForeignCurrency: "EUR"
+  priceDomestic: "200"
+  priceDomesticCurrency: "TRY"
+  ticketsNumber: "150"
+  buyButtonLink: "#"
+  buyButtonText: "Buy Now"
+  validFrom: "2017-04-27T10:00"
+  validThrough: "2017-05-31T23:59"
+  disabled: false
+ -
+  name: "Student"
+  priceForeign: "100"
+  priceForeignCurrency: "EUR"
+  priceDomestic: "250"
+  priceDomesticCurrency: "TRY"
+  ticketsNumber: "150"
+  buyButtonLink: "#"
+  buyButtonText: "Buy Now"
+  validFrom: "2017-06-01T10:00"
+  validThrough: "2017-06-30T23:59"
+  disabled: true
+ -
+  name: "Virtual Presentation"
+  priceForeign: "80"
+  priceForeignCurrency: "EUR"
+  priceDomestic: "150"
+  priceDomesticCurrency: "TRY"
+  ticketsNumber: "150"
+  buyButtonLink: "#"
+  buyButtonText: "Buy Now"
+  validFrom: "2017-04-27T10:00"
+  validThrough: "2017-06-30T23:59"
+  disabled: false
 
 # Footer
 socialLinks:

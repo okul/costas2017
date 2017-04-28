@@ -19,7 +19,8 @@
 							{% endif %}
 						</div>
 						<div class="col-sm-3 col-xs-12">
-							<p class="price">{{ ticketsOffer.price }} {{ ticketsOffer.priceCurrency }}</p>
+							<p class="price">{{ ticketsOffer.priceForeign }} {{ ticketsOffer.priceForeignCurrency }}</p>
+							<p class="price">{{ ticketsOffer.priceDomestic }} {{ ticketsOffer.priceDomesticCurrency }}</p>
 						</div>
 						<div class="col-sm-3 col-xs-12">
 							{% if ticketsOffer.soldOut == true %}
