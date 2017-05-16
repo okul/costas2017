@@ -1,0 +1,51 @@
+  - {
+     theme: "1. Computational Methods, Algorithms and Scientific Applications",
+     texts: ["Computational Biology", "Computational Chemistry",
+             "Computational Physics", "Computational Geometry",
+             "Computational Mathematics", "Computational Econometrics",
+             "Numerical Methods and Algorithms"]
+     }
+  - {
+      theme: "2. High Performance Computing and Networks",
+      texts: ["Parallel and Distributed Computing", "Image Processing",
+              "Geometric Modelling", "High-Dimensional Data Analysis",
+              "Machine Learning", "Signal Processing", "Spatial Statistics"]
+      }
+  - {
+      theme: "3. Advanced and Emerging Applications",
+      texts: ["Biochemistry", "Bioinformatics", "Biometric Modelling"]
+    }
+  - {
+      theme: "4. Information Systems and Technologies",
+      texts: ["Risk Analysis", "Software Engineering", "Data Mining",
+              "Artifical Intelligence", "System Reliability"]
+    }
+  - {
+      theme: "5. Statistics",
+      texts: ["Actuarial Science", "Biostatistics & Biocomputing",
+              "Business and Economics", "Categorical Data Analysis",
+              "Clustering & Classification", "Computer-aided Data Analysis",
+              "Computational Bayesian Methods", "Data Visualization",
+              "Econometrics", "Financial Mathematics", "Functional Data Analysis",
+              "Inequalities and Its Applications", "Kernel & Monte Carlo Methods",
+              "Mixture Models", "Multivariate Data Analysis", "Nonparametric Statistics",
+              "Numerical Methods in Statistics", "Operations and Logistics Optimization",
+              "Operations Research", "Optimization", "Ordered Statistical Data Analysis",
+              "Parametric & Semi Parametric Models", "Probability and Stochastic Processes",
+              "Pure and Applied Mathematics", "Robust Statistics", "Sampling Methods",
+              "Statistical Applications in Social Sciences", "Stochastics Processes",
+              "Supply Chain Design and Optimization", "Symbolic Data Analysis",
+              "Time Series Analysis"]
+    }
+  - {
+      theme: "6. Econometrics",
+      texts: ["Financial Institutions and Markets for Sustained Development",
+              "Implementation of Basel II", "Financial Engineering",
+              "Interest Free Banking/ Islamic Finance",
+              "Corporate Governance/ Ethics / Social Responsibility",
+              "Investment Banking and Issuing of Corporate Securities",
+              "Multinational Financial Management",
+              "Financial Accounting, Regulation, Taxation, Compliance",
+              "Applied Macroeconomics", "Development Economics and Finance",
+              "Financial Economics", "Energy Economics and Finance"]
+    }

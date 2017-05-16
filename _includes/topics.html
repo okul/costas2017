@@ -1,0 +1,43 @@
+<!-- Topics Section -->
+<section id="topics">
+  <div class="content-wrapper">
+    <article class="row">
+      <div class="col-md-10 col-lg-offset-1 text-left ">
+        <p class="post-body">
+          The International Conference on COSTAS, organized by the Ondokuz Mayıs University - Faculty of Science will take place from 12th September to the 14st September 2017 in Samsun, Turkey.
+          COSTAS 2017 is intended to bring academicians and researchers to share new advances and improvements in all fields of computational and applied sciences.
+          The conference will cover several scientific areas such as statistics, computer science, engineering business and econometrics etc.
+          Our sincere thanks go to Distance Education Center (UZEM) in Ondokuz Mayıs University, for supporting and motivating us in every respect.
+          Our congress provides online participation facility with video conference system for researchers who cannot join to the conference.
+          The online presentations can be done with the assistance of technical possibility of UZEM.
+          We invite all academic and non-academic researchers to contribute our conference.
+        </p>
+        <p>The COSTAS 2017 conference themes and topics are the following (but are not limited to) : </p>
+      </div>
+    </article>
+    <div class="col-md-12 col-md-offset-1">
+      {% for topic in site.data.topics %}
+        {% capture modulo %}{{ forloop.index | modulo: 2 }}{% endcapture %}
+        {% if modulo == '1' %}
+          <article class="row">
+        {% endif %}
+          <div class="post col-md-6 col-sm-6 text-left animated fadeInDown visible" data-delay="500">
+            <h6>{{ topic.theme }}</h6>
+            <p class="post-body">
+              <ul>
+                {% for text in topic.texts %}
+                 <li>
+                   {{ text }}
+                 </li>
+                {% endfor %}
+              </ul>
+            </p>
+          </div>
+        {% if modulo == '0' or forloop.last %}
+          </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- End Topics Section -->

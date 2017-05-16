@@ -41,9 +41,10 @@ navigationLinks:
  # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/team/", text: "Committees"}
- - {permalink: "/important_dates/", text: "Important Dates"}
+ - {permalink: "/important-dates/", text: "Important Dates"}
  - {permalink: "/abstract-submission/", text: "Submission"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/topics/", text: "Call for Paper"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Register"}
 rightNavigationButtons:
