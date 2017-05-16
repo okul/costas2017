@@ -1,0 +1,22 @@
+<!-- Venue Section -->
+<section id="important_dates">
+  <div class="content-wrapper">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
+        {% for important_date in site.importantDates %}
+          <div class="tickets-row" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+            <div class="row">
+              <div class="col-sm-6 col-xs-12">
+                <p class="title">{{ important_date.description }}</p>
+              </div>
+              <div class="col-sm-6 col-xs-12">
+                <p class="price">{{ important_date.date }} </p>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Venue Section -->

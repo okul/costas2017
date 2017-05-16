@@ -42,6 +42,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/important_dates/", text: "Important Dates"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -82,6 +83,14 @@ eventEndTime: "2014-10-25T20:00"
 eventPlaceCoordinates: "41.3691922, 36.1980414"
 mapCenterCoordinates: "41.3691922, 36.1980414"
 mapMobileCenterCoordinates: "41.3691922, 36.1980414"
+
+# Important Dates
+importantDates:
+  - {description: "Dead Line For Abstract Submission", date: ""}
+  - {description: "Registration Deadline", date: ""}
+  - {description: "Late Registration Deadline", date: ""}
+  - {description: "Conference Date", date: ""}
+importantDatesBigImage: "calendar.jpg" 
 
 # Venue Block
 venueBlockTitle: "Venue"
