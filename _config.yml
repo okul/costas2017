@@ -88,10 +88,10 @@ mapMobileCenterCoordinates: "41.3691922, 36.1980414"
 
 # Important Dates
 importantDates:
-  - {description: "Dead Line For Abstract Submission", date: ""}
-  - {description: "Registration Deadline", date: ""}
-  - {description: "Late Registration Deadline", date: ""}
-  - {description: "Conference Date", date: ""}
+  - {description: "Dead Line For Abstract Submission", date: "7.10.2017"}
+  - {description: "Registration Deadline", date: "15.09.2017"}
+  - {description: "Late Registration Deadline", date: "15.10.2017"}
+  - {description: "Conference Date", date: "9-10-11 November 2017"}
 
 # Abstract Submission
 submissionTemplateUrl: "/assets/Submission_Template_COSTAS_2017.docx"
