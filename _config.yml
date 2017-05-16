@@ -39,23 +39,23 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  # - {permalink: "/", text: "Home"}
  # - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/team/", text: "Committees"}
- - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/important_dates/", text: "Important Dates"}
- - {permalink: "/abstract-submission/", text: "Abstract Submission"}
+ - {permalink: "/abstract-submission/", text: "Submission"}
+ - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "COSTAS 2017"
-eventDate: "September 13-15, 2017"
-typeoutTextValues: '"13", "14", "15"'
+eventDate: "November 9-11, 2017"
+typeoutTextValues: '"9", "10", "11"'
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
