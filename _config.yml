@@ -43,6 +43,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/important_dates/", text: "Important Dates"}
+ - {permalink: "/abstract-submission/", text: "Abstract Submission"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -90,6 +91,9 @@ importantDates:
   - {description: "Registration Deadline", date: ""}
   - {description: "Late Registration Deadline", date: ""}
   - {description: "Conference Date", date: ""}
+
+# Abstract Submission
+submissionTemplateUrl: "/assets/Submission_Template_COSTAS_2017.docx"
 
 # Venue Block
 venueBlockTitle: "Venue"
