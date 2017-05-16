@@ -37,8 +37,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/", text: "Home"}
+ # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/logistics/", text: "Logistics"}
@@ -90,7 +90,6 @@ importantDates:
   - {description: "Registration Deadline", date: ""}
   - {description: "Late Registration Deadline", date: ""}
   - {description: "Conference Date", date: ""}
-importantDatesBigImage: "calendar.jpg" 
 
 # Venue Block
 venueBlockTitle: "Venue"
