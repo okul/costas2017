@@ -3,138 +3,52 @@
   name: "Mehmet Ali"
   surname: "Cengiz"
   title: "Head of Department"
-  thumbnailUrl: NoImageMale.png
   team: true
 - 
-  id: 1
-  name: "V. Rezan"
-  surname: "Uslu"
-  title: "Prof. Dr."
-  thumbnailUrl: NoImageFemale.png
-  team: true
-- 
-  id: 2
-  name: "Erol"
-  surname: "Terzi"
-  title: "Assoc. Prof. Dr."
-  thumbnailUrl: NoImageMale.png
-  team: true
-- 
-  id: 3
-  name: "Kamil"
-  surname: "Alakuş"
-  title: "Assoc. Prof. Dr."
-  thumbnailUrl: NoImageMale.png
-  team: true
-- 
-  id: 4
-  name: "Pelin"
-  surname: "Kasap"
-  title: "Assoc. Prof. Dr."
-  thumbnailUrl: NoImageFemale.png
-  team: true
-- 
-  id: 5
-  name: "Taner"
-  surname: "Tunç"
-  title: "Assoc. Prof. Dr."
-  thumbnailUrl: NoImageMale.png
-  team: true
-- 
-  id: 6
-  name: "Yüksel"
-  surname: "Terzi"
-  title: "Assoc. Prof. Dr."
-  thumbnailUrl: NoImageFemale.png
-  team: true
-- 
-  id: 7
-  name: "Yüksel"
-  surname: "Öner"
-  title: "Assoc. Prof. Dr."
-  thumbnailUrl: NoImageMale.png
-  team: true
-- 
-  id: 8
-  name: "Vedat"
-  surname: "Sağlam"
-  title: "Assoc. Prof. Dr."
-  thumbnailUrl: NoImageMale.png
-  team: true
-- 
-  id: 9
-  name: "Talat"
-  surname: "Şenel"
-  title: "Asst. Prof. Dr."
-  thumbnailUrl: NoImageMale.png
-  team: true
-- 
-  id: 10
-  name: "Erdinç"
-  surname: "Yücesoy"
-  title: "Dr."
-  thumbnailUrl: NoImageMale.png
-  team: true
-- 
-  id: 11
-  name: "Burçin Şeyda"
-  surname: "Çorba"
-  title: "Res. Asst."
-  thumbnailUrl: NoImageFemale.png
+  id: 1 
+  name: "Recai"
+  surname: "Oktaş"
+  title: "Asst. Prof."
   team: true
 - 
   id: 12
   name: "Emre"
   surname: "Dünder"
   title: "Res. Asst."
-  thumbnailUrl: NoImageMale.png
   team: true
 - 
   id: 13
   name: "Emre"
   surname: "Yıldırım"
   title: "Res. Asst."
-  thumbnailUrl: NoImageMale.png
   team: true
 - 
   id: 14
   name: "Hasan"
   surname: "Bulut"
   title: "Res. Asst."
-  thumbnailUrl: NoImageMale.png
   team: true
 - 
   id: 15
   name: "Keziban"
   surname: "Kılıç"
   title: "Res. Asst."
-  thumbnailUrl: NoImageFemale.png
-  team: true
-- 
-  id: 16
-  name: "Murat"
-  surname: "Sağır"
-  title: "Res. Asst."
-  thumbnailUrl: NoImageMale.png
   team: true
 - 
   id: 17
   name: "Pelin"
   surname: "Akın"
   title: "Res. Asst."
-  thumbnailUrl: NoImageFemale.png
   team: true
 - 
   id: 18
   name: "Serpil"
   surname: "Gümüştekin"
   title: "Res. Asst."
-  thumbnailUrl: NoImageFemale.png
   team: true
 - 
   id: 19
   name: "Tolga"
   surname: "Zaman"
   title: "Res. Asst."
-  thumbnailUrl: NoImageMale.png
   team: true

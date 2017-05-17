@@ -7,19 +7,19 @@
         <tbody>
           <tr>
             <td></td>
-            <td colspan="2">Participants from Turkey</td>
-            <td colspan="2">Participants from Other Country</td>
+            <td colspan="2"><b>Participants from Turkey</b></td>
+            <td colspan="2"><b>Participants from Other Country</b></td>
           </tr>
           <tr>
             <td></td>
-            <td>Early Registration Until 15.09.2017</td>
-            <td>Late Registration Until 15.10.2017</td>
-            <td>Early Registration Until 15.09.2017</td>
-            <td>Late Registration Until 15.10.2017</td>
+            <td><b>Early Registration Until 15.09.2017</b></td>
+            <td><b>Late Registration Until 15.10.2017</b></td>
+            <td><b>Early Registration Until 15.09.2017</b></td>
+            <td><b>Late Registration Until 15.10.2017</b></td>
           </tr>
           {% for ticketsOffer in site.ticketsOffers %}
             <tr>
-              <td>{{ ticketsOffer.name }}</td>
+              <td><b>{{ ticketsOffer.name }}</b></td>
               <td>{{ ticketsOffer.price1 }} {{ ticketsOffer.price1Currency  }}</td>
               <td>{{ ticketsOffer.price2 }} {{ ticketsOffer.price2Currency  }}</td>
               <td>{{ ticketsOffer.price3 }} {{ ticketsOffer.price3Currency  }}</td>

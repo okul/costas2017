@@ -39,30 +39,31 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  # - {permalink: "/", text: "Home"}
  # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/topics/", text: "Call for Paper"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/important-dates/", text: "Important Dates"}
  - {permalink: "/abstract-submission/", text: "Submission"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/topics/", text: "Call for Paper"}
+ - {permalink: "/logistics/", text: "About Samsun"}
 bottomNavigationLinks:
- - {link: "http://openconf.uzem.omu.edu.tr", text: "Register"}
+ - {link: "http://pay.uzem.omu.edu.tr", text: "Registration"}
 rightNavigationButtons:
- - {link: "http://openconf.uzem.omu.edu.tr", text: "Register"}
+ - {link: "http://pay.uzem.omu.edu.tr", text: "Registrationr"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "COSTAS 2017"
+heroTitle: "Computational and Statistical Methods in Applied Science"
+heroTitleShort: "COSTAS 2017"
 eventDate: "November 9-11, 2017"
 typeoutTextValues: '"9", "10", "11"'
 heroButtons:
- - {link: "http://openconf.uzem.omu.edu.tr", text: "Register"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://pay.uzem.omu.edu.tr", text: "Registration"}
+ - {link: "http://openconf.uzem.omu.edu.tr", text: "Submit Paper"}
 
 # About Block
 aboutTitle: "About COSTAS 2017"
 aboutBlock:
- - {title: "", text: "The International Conference on COSTAS, organized by the Ondokuz Mayıs University - Faculty of Science will take place from 12th September to the 14st September 2017 in Samsun, Turkey. COSTAS 2017 is intended to bring academicians and researchers to share new advances and improvements in all fields of computational and applied sciences.  The conference will cover several scientific areas such as statistics, computer science, engineering business and econometrics etc. Our sincere thanks go to Distance Education Center (UZEM) in Ondokuz Mayıs University, for supporting and motivating us in every respect. Our congress provides online participation facility with video conference system for researchers who cannot join to the conference. The online presentations can be done with the assistance of technical possibility of UZEM. We invite all academic and non-academic researchers to contribute our conference." }
+ - {title: "", text: "The International Conference on COSTAS, organized by the Ondokuz Mayıs University - Faculty of Science will take place from 9th November to the 11th November 2017 in Samsun, Turkey. COSTAS 2017 is intended to bring academicians and researchers to share new advances and improvements in all fields of computational and applied sciences.  The conference will cover several scientific areas such as statistics, computer science, engineering business and econometrics etc. Our sincere thanks go to Distance Education Center (UZEM) in Ondokuz Mayıs University, for supporting and motivating us in every respect. Our congress provides online participation facility with video conference system for researchers who cannot join to the conference. The online presentations can be done with the assistance of technical possibility of UZEM. We invite all academic and non-academic researchers to contribute our conference." }
 
 # Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -88,7 +89,7 @@ mapMobileCenterCoordinates: "41.3691922, 36.1980414"
 
 # Important Dates
 importantDates:
-  - {description: "Dead Line For Abstract Submission", date: "7.10.2017"}
+  - {description: "Deadline For Abstract Submission", date: "7.10.2017"}
   - {description: "Registration Deadline", date: "15.09.2017"}
   - {description: "Late Registration Deadline", date: "15.10.2017"}
   - {description: "Conference Date", date: "9-10-11 November 2017"}
@@ -114,8 +115,8 @@ subscribeAction: ""
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Registration fee includes the coffee-tea-cookies, lunches, gala dinner, and online book of abstracts, a conference bag and the certificate of participation/presentation. Reduced conference fees are available for students via the online registration system. When checking in at the conference, students will be asked to provide a copy of a valid Student ID, a confirmation from the supervisor, or other formal evidence of the student status. Due to limited capacity, early registration is recommended. One author can submit three virtual presentation in the congress by one registration fee. Author must pay an extra fee (€20 or 50 TL) if they wish to present more than three virtual presentation."
+ticketsTitle: "Registration Fees"
+ticketsInfo: "Registration fee includes the coffee-tea-cookies, lunches, and online book of abstracts, a conference bag and the certificate of participation/presentation. Reduced conference fees are available for students via the online registration system. When checking in at the conference, students will be asked to provide a copy of a valid Student ID, a confirmation from the supervisor, or other formal evidence of the student status. Due to limited capacity, early registration is recommended. One author can submit three virtual presentation in the congress by one registration fee. Author must pay an extra fee (€40 or 100 ₺) if they wish to present more than two virtual presentation."
 ticketsOffers:
  -
   name: "Academic"
@@ -135,7 +136,7 @@ ticketsOffers:
   price2Currency: "₺"
   price3: "100"
   price3Currency: "€"
-  price4: "15"
+  price4: "150"
   price4Currency: "€"
  -
   name: "Virtual Presentation"
@@ -146,6 +147,16 @@ ticketsOffers:
   price3: "70"
   price3Currency: "€"
   price4: "70"
+  price4Currency: "€"
+ -
+  name: "Accompany Person"
+  price1: "50"
+  price1Currency: "₺"
+  price2: "50"
+  price2Currency: "₺"
+  price3: "20"
+  price3Currency: "€"
+  price4: "20"
   price4Currency: "€"
 
 # Footer
@@ -179,34 +190,9 @@ logisticsMapMobileCenterCoordinates: "41.3691922, 36.1980414"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsImage: "bulvar-avm.jpg"
+directionDetailsTitle: "Get around Samsun"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}

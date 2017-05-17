@@ -5,7 +5,8 @@
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             <h1>{{ site.heroTitle }}</h1>
-            <p>{{ site.eventDate }}</p>
+            <h2>{{ site.heroTitleShort }}</h2>
+            <h4>{{ site.eventDate }}</h4>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" style="background: #F39431 !important;" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
