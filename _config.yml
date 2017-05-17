@@ -46,9 +46,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/topics/", text: "Call for Paper"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Register"}
+ - {link: "http://openconf.uzem.omu.edu.tr", text: "Register"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Register"}
+ - {link: "http://openconf.uzem.omu.edu.tr", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,7 +56,7 @@ heroTitle: "COSTAS 2017"
 eventDate: "November 9-11, 2017"
 typeoutTextValues: '"9", "10", "11"'
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Register"}
+ - {link: "http://openconf.uzem.omu.edu.tr", text: "Register"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
