@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "COSTAS 2017"
-email: "costas2017@etkinlikler.uzem.omu.edu.tr"
+email: "costas2017@omu.edu.tr"
 description: "COSTAS 2017"
 baseurl: "/costas2017"
 url: "http://etkinlikler.uzem.omu.edu.tr"
@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "OMÜ UZEM"
 organizerAlternateName: "OMÜ Distance Education Center"
 organizerDescription: "It conducts research and development and application studies related to distance education."
-organizerEmail: "costas2017@etkinlikler.uzem.omu.edu.tr"
+organizerEmail: "costas2017@omu.edu.tr"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://uzem.omu.edu.tr/"
 
@@ -159,7 +159,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:costas2017@etkinlikler.uzem.omu.edu.tr ", text: "costas2017@etkinlikler.uzem.omu.edu.tr "}
+   - {link: "costas2017@omu.edu.tr", text: "costas2017@omu.edu.tr"}
 
 # Speakers List Block
 showSessions: true
