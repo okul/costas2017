@@ -1,4 +1,5 @@
 - 
-  group: "Main organizer"
+  group: "Main organizers"
   elements: 
     - {name: "OMÜ UZEM", description: "OMÜ UZEM - OMÜ Distance Education Center", link: "http://uzem.omu.edu.tr/", imageUrl: "organizer-uzem.png"}
+    - {name: "OMÜ Department of Statistics", description: "OMÜ Department of Statistics", link: "http://ebs.omu.edu.tr/ebs/program.php?dil=en&mod=1&Program=2680", imageUrl: "organizer-istatistik.jpg"}
