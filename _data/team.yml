@@ -108,20 +108,20 @@
   subTeam: true
 -
   id: 20
-  name: " Mujgan  "
+  name: "Mujgan"
   surname: "Tez"
   title: "Prof. Dr. - Marmara University"
   subTeam: true
 -
   id: 21
-  name: "  Ibrahim   "
+  name: "Ibrahim"
   surname: "Cemal"
   title: "Prof. Dr. - Adnan Menderes University"
   subTeam: true
 -
   id: 22
-  name: "  Hasan   "
-  surname: " Vural"
+  name: "Hasan"
+  surname: "Vural"
   title: "Prof. Dr. - Uludag University "
   subTeam: true
 -
@@ -134,18 +134,18 @@
   id: 24
   name: "  Ziya Gokalp "
   surname: "Goktolga"
-  title: "Prof. Dr. - Cumhuriyet University "
+  title: "Prof. Dr. - Cumhuriyet University"
   subTeam: true
 -
   id: 25
-  name: "  Sibel  "
-  surname: "  Selim "
-  title: "Prof. Dr. - Celal Bayar University "
+  name: "Sibel"
+  surname: "Selim"
+  title: "Prof. Dr. - Celal Bayar University"
   subTeam: true
 -
   id: 26
-  name: "  -mer Cevdet  "
-  surname: " Bilgin"
+  name: "Omer Cevdet"
+  surname: "Bilgin"
   title: "Prof. Dr. - Ataturk University "
   subTeam: true
 -
@@ -549,4 +549,16 @@
   name: "Mohamed"
   surname: "Deara"
   title: "Dr. - University of The Western Mountaion"
+  subTeam: true
+-
+  id: 94
+  name: "Adel"
+  surname: "Alsharkasi"
+  title: "Assoc. Prof. - University of Benghazi"
+  subTeam: true
+-
+  id: 95
+  name: "Ozgur"
+  surname: "Yeniay"
+  title: "Prof. Dr. - Hacettepe University"
   subTeam: true
