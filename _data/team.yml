@@ -522,7 +522,31 @@
   subTeam: true
 -
   id: 89
-  name: "Josef "
+  name: "Josef"
   surname: "Jablonsky"
-  title: "Prof. Dr. - University of Economics Prague"
+  title: "Prof. Dr. - Prague University of Economics"
+  subTeam: true
+-
+  id: 90
+  name: "David F."
+  surname: "Percy"
+  title: "Prof. Dr. - Salford University"
+  subTeam: true
+-
+  id: 91
+  name: "Ali"
+  surname: "Emrouznejad"
+  title: "Prof. Dr. - Aston University"
+  subTeam: true
+-
+  id: 92
+  name: "İbrahim H."
+  surname: "Osman"
+  title: "Prof. Dr. - American University of Beirut"
+  subTeam: true
+-
+  id: 93
+  name: "Mohamed"
+  surname: "Deara"
+  title: "Dr. - University of The Western Mountaion"
   subTeam: true
