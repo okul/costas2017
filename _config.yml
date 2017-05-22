@@ -116,7 +116,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Registration Fees"
-ticketsInfo: "Registration fee includes the coffee-tea-cookies, lunches, and online book of abstracts, a conference bag and the certificate of participation/presentation. Reduced conference fees are available for students via the online registration system. When checking in at the conference, students will be asked to provide a copy of a valid Student ID, a confirmation from the supervisor, or other formal evidence of the student status. Due to limited capacity, early registration is recommended. One author can submit three virtual presentation in the congress by one registration fee. Author must pay an extra fee (€40 or 100 ₺) if they wish to present more than two virtual presentation."
+ticketsInfo: "Registration fee includes the coffee-tea-cookies, lunches, and online book of abstracts, a conference bag and the certificate of participation/presentation. Reduced conference fees are available for students via the online registration system. When checking in at the conference, students will be asked to provide a copy of a valid Student ID, a confirmation from the supervisor, or other formal evidence of the student status. Due to limited capacity, early registration is recommended. One author can submit two virtual presentation in the congress by one registration fee. Author must pay an extra fee (€40 or 100 ₺) if they wish to present more than two virtual presentation."
 ticketsOffers:
  -
   name: "Academic"
@@ -150,13 +150,13 @@ ticketsOffers:
   price4Currency: "€"
  -
   name: "Accompany Person"
-  price1: "50"
+  price1: "100"
   price1Currency: "₺"
-  price2: "50"
+  price2: "100"
   price2Currency: "₺"
-  price3: "20"
+  price3: "40"
   price3Currency: "€"
-  price4: "20"
+  price4: "40"
   price4Currency: "€"
 
 # Footer
