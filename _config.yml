@@ -48,7 +48,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://pay.uzem.omu.edu.tr", text: "Registration"}
 rightNavigationButtons:
- - {link: "http://pay.uzem.omu.edu.tr", text: "Registrationr"}
+ - {link: "http://pay.uzem.omu.edu.tr", text: "Registration"}
 
 # Hero Block
 heroImage: "hero.jpg"
