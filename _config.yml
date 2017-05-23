@@ -63,7 +63,7 @@ heroButtons:
 # About Block
 aboutTitle: "About COSTAS 2017"
 aboutBlock:
- - {title: "", text: "The International Conference on COSTAS, organized by the Ondokuz Mayıs University - Faculty of Science will take place from 9th November to the 11th November 2017 in Samsun, Turkey. COSTAS 2017 is intended to bring academicians and researchers to share new advances and improvements in all fields of computational and applied sciences.  The conference will cover several scientific areas such as statistics, computer science, engineering business and econometrics etc. Our sincere thanks go to Distance Education Center (UZEM) in Ondokuz Mayıs University, for supporting and motivating us in every respect. Our congress provides online participation facility with video conference system for researchers who cannot join to the conference. The online presentations can be done with the assistance of technical possibility of UZEM. We invite all academic and non-academic researchers to contribute our conference." }
+ - {title: "", text: "The International Conference on COSTAS, organized by the Ondokuz Mayıs University - Faculty of Science will take place from 9th November to the 11th November 2017 in Samsun, Turkey. COSTAS 2017 is intended to bring academicians and researchers to share new advances and improvements in all fields of computational and applied sciences.  The conference will cover several scientific areas such as statistics, computer science, engineering business and econometrics etc. Our sincere thanks go to Distance Education Center (UZEM) in Ondokuz Mayıs University, for supporting and motivating us in every respect. Our conference provides online participation facility with video conference system for researchers who cannot join to the conference. The online presentations can be done with the assistance of technical possibility of UZEM. We invite all academic and non-academic researchers to contribute our conference." }
 
 # Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -116,7 +116,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Registration Fees"
-ticketsInfo: "Registration fee includes the coffee-tea-cookies, lunches, and online book of abstracts, a conference bag and the certificate of participation/presentation. Reduced conference fees are available for students via the online registration system. When checking in at the conference, students will be asked to provide a copy of a valid Student ID, a confirmation from the supervisor, or other formal evidence of the student status. Due to limited capacity, early registration is recommended. One author can submit two presentation in the congress by one registration fee. Author must pay an extra fee (€40 or 100 ₺) if they wish to present more than two presentation."
+ticketsInfo: "Registration fee includes the coffee-tea-cookies, lunches, and online book of abstracts, a conference bag and the certificate of participation/presentation. Reduced conference fees are available for students via the online registration system. When checking in at the conference, students will be asked to provide a copy of a valid Student ID, a confirmation from the supervisor, or other formal evidence of the student status. Due to limited capacity, early registration is recommended. One author can submit two presentation in the conference by one registration fee. Author must pay an extra fee (€40 or 100 ₺) if they wish to present more than two presentation."
 ticketsOffers:
  -
   name: "Academic"

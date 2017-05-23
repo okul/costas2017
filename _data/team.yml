@@ -562,3 +562,15 @@
   surname: "Yeniay"
   title: "Prof. Dr. - Hacettepe University"
   subTeam: true
+-
+  id: 96
+  name: "Salih "
+  surname: "Katircioglu"
+  title: "Prof. Dr. - Eastern Mediterranean University"
+  subTeam: true
+-
+  id: 97
+  name: "Mehdi"
+  surname: "Toloo"
+  title: "Prof. Dr. - The Technical University of Ostrava"
+  subTeam: true
