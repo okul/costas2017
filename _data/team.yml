@@ -580,3 +580,9 @@
   surname: "Arabi"
   title: "Dr. - University of Porto"
   subTeam: true
+-
+  id: 99
+  name: "Dimitris K."
+  surname: "Despotis"
+  title: "Prof. Dr. - University of Piraeus"
+  subTeam: true
