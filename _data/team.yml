@@ -1,100 +1,124 @@
-- 
+-
   id: 0 
   name: "Mehmet Ali"
   surname: "Cengiz"
-  title: "Head of Department - Prof. Dr."
+  title: "Prof. Dr. - Chair of COSTAS2017"
   team: true
-- 
+-
   id: 1 
   name: "İzzet"
   surname: "Akça"
-  title: "Prof. Dr."
+  title: "Prof. Dr. - Director of UZEM"
   team: true
-- 
+-
   id: 2 
   name: "Recai"
   surname: "Oktaş"
   title: "Asst. Prof."
   team: true
-- 
+-
+  id: 3
+  name: "Talat "
+  surname: "Şenel"
+  title: "Asst. Prof."
+  team: true
+-
   id: 12
   name: "Emre"
   surname: "Dünder"
   title: "Res. Asst."
   team: true
-- 
+-
   id: 13
   name: "Emre"
   surname: "Yıldırım"
   title: "Res. Asst."
   team: true
-- 
+-
   id: 14
   name: "Hasan"
   surname: "Bulut"
   title: "Res. Asst."
   team: true
-- 
+-
   id: 15
   name: "Keziban"
-  surname: "Kılıç"
+  surname: "Kılıç Topal"
   title: "Res. Asst."
   team: true
-- 
+-
   id: 17
   name: "Pelin"
   surname: "Akın"
   title: "Res. Asst."
   team: true
-- 
+-
   id: 18
   name: "Serpil"
   surname: "Gümüştekin"
   title: "Res. Asst."
   team: true
-- 
+-
   id: 19
   name: "Tolga"
   surname: "Zaman"
   title: "Res. Asst."
   team: true
-- 
+-
+  id: 20
+  name: "Murat "
+  surname: "Sagir"
+  title: "Res. Asst. "
+  team: true
+-
+  id: 21
+  name: "Burçin "
+  surname: "Çorba"
+  title: "Res. Asst. "
+  team: true
+-
+  id: 22
+  name: "Erdinç "
+  surname: "Yücesoy"
+  title: "Res. Asst. "
+  team: true
+-
   id: 20
   name: "Ecmel"
   surname: "Kaytazoğlu"
   title: "Expert Staff in UZEM"
   team: true
-- 
+-
   id: 21
   name: "Emre"
   surname: "Demir"
   title: "Expert Staff in UZEM"
   team: true
-- 
+-
   id: 22
   name: "İrfan"
   surname: "Subaş"
   title: "Expert Staff in UZEM"
   team: true
-- 
+-
   id: 23
   name: "Mustafa"
   surname: "Altınkaynak"
   title: "Expert Staff in UZEM"
   team: true
-- 
+-
   id: 10
-  name: "S.Yavuz"
-  surname: "Sanisoglu"
-  title: "Prof. Dr. - Yildirim Beyazit University"
+  name: "Hüsnü"
+  surname: "Demirsoy"
+  title: "Prof. Dr. - Ondokuz Mayis University"
   subTeam: true
-- 
+-
   id: 11
   name: "Hasan"
   surname: "Bal"
   title: "Prof. Dr. - Gazi University"
   subTeam: true
-- 
+-
   id: 13
   name: "Coskun"
   surname: "Kus"
@@ -333,6 +357,12 @@
   name: "Nevcihan"
   surname: " Duru"
   title: "Prof. Dr. - Kocaeli University"
+  subTeam: true
+-
+  id: 10
+  name: "S.Yavuz"
+  surname: "Sanisoglu"
+  title: "Prof. Dr. - Yildirim Beyazit University"
   subTeam: true
 -
   id: 53
@@ -621,4 +651,45 @@
   name: "Kaoru"
   surname: "Tone"
   title: "Prof. Dr. - Heriot-Watt University"
+  subTeam: true
+-
+  id: 105
+  name: "V.Rezzan"
+  surname: "Uslu"
+  title: "Prof.Dr. - Ondokuz Mayis University"
+  subTeam: true
+-
+  id: 106
+  name: "Vedat"
+  surname: "Saglam"
+  title: "Assoc. Prof.  - Ondokuz Mayis University"
+  subTeam: true
+-
+  name: "Kamil"
+  surname: "Alakus"
+  title: "Assoc. Prof.  - Ondokuz Mayis University"
+  subTeam: true
+-
+  id: 108
+  name: "Yuksel "
+  surname: "Öner"
+  title: "Assoc. Prof.  - Ondokuz Mayis University"
+  subTeam: true
+-
+  id: 109
+  name: "Yuksel "
+  surname: "Terzi"
+  title: "Assoc. Prof.  - Ondokuz Mayis University"
+  subTeam: true
+-
+  id: 106
+  name: "Erol"
+  surname: "Terzi"
+  title: "Assoc. Prof.  - Ondokuz Mayis University"
+  subTeam: true
+-
+  id: 106
+  name: "Pelin"
+  surname: "Kasap"
+  title: "Assoc. Prof.  - Ondokuz Mayis University"
   subTeam: true
