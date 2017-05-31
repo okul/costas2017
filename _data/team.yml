@@ -2,10 +2,16 @@
   id: 0 
   name: "Mehmet Ali"
   surname: "Cengiz"
-  title: "Head of Department"
+  title: "Head of Department - Prof. Dr."
   team: true
 - 
   id: 1 
+  name: "İzzet"
+  surname: "Akça"
+  title: "Prof. Dr."
+  team: true
+- 
+  id: 2 
   name: "Recai"
   surname: "Oktaş"
   title: "Asst. Prof."
@@ -51,6 +57,30 @@
   name: "Tolga"
   surname: "Zaman"
   title: "Res. Asst."
+  team: true
+- 
+  id: 20
+  name: "Ecmel"
+  surname: "Kaytazoğlu"
+  title: "Expert Staff in UZEM"
+  team: true
+- 
+  id: 21
+  name: "Emre"
+  surname: "Demir"
+  title: "Expert Staff in UZEM"
+  team: true
+- 
+  id: 22
+  name: "İrfan"
+  surname: "Subaş"
+  title: "Expert Staff in UZEM"
+  team: true
+- 
+  id: 23
+  name: "Mustafa"
+  surname: "Altınkaynak"
+  title: "Expert Staff in UZEM"
   team: true
 - 
   id: 10
