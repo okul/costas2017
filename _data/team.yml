@@ -586,3 +586,9 @@
   surname: "Despotis"
   title: "Prof. Dr. - University of Piraeus"
   subTeam: true
+-
+  id: 100
+  name: "Kaoru"
+  surname: "Tone"
+  title: "Prof. Dr. - Heriot-Watt University"
+  subTeam: true
