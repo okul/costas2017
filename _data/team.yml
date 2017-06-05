@@ -665,6 +665,7 @@
   title: "Assoc. Prof.  - Ondokuz Mayis University"
   subTeam: true
 -
+  id: 107
   name: "Kamil"
   surname: "Alakus"
   title: "Assoc. Prof.  - Ondokuz Mayis University"
@@ -682,14 +683,26 @@
   title: "Assoc. Prof.  - Ondokuz Mayis University"
   subTeam: true
 -
-  id: 106
+  id: 110
   name: "Erol"
   surname: "Terzi"
   title: "Assoc. Prof.  - Ondokuz Mayis University"
   subTeam: true
 -
-  id: 106
+  id: 111
   name: "Pelin"
   surname: "Kasap"
   title: "Assoc. Prof.  - Ondokuz Mayis University"
+  subTeam: true
+-
+  id: 112
+  name: "Biresh K."
+  surname: "Sahoo"
+  title: "Prof.Dr. - Xavier University Bhubaneswar"
+  subTeam: true
+-
+  id: 113
+  name: "R. Kazemi"
+  surname: "Matin"
+  title: "Prof.Dr. - Islamic Azad university"
   subTeam: true
