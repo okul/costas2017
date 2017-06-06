@@ -656,7 +656,7 @@
   id: 105
   name: "V.Rezzan"
   surname: "Uslu"
-  title: "Prof.Dr. - Ondokuz Mayis University"
+  title: "Prof. Dr. - Ondokuz Mayis University"
   subTeam: true
 -
   id: 106
@@ -698,11 +698,17 @@
   id: 112
   name: "Biresh K."
   surname: "Sahoo"
-  title: "Prof.Dr. - Xavier University Bhubaneswar"
+  title: "Prof. Dr. - Xavier University Bhubaneswar"
   subTeam: true
 -
   id: 113
   name: "R. Kazemi"
   surname: "Matin"
-  title: "Prof.Dr. - Islamic Azad university"
+  title: "Prof. Dr. - Islamic Azad university"
+  subTeam: true
+-
+  id: 114
+  name: "Frank"
+  surname: "Coolen"
+  title: "Prof. Dr. - Durham University"
   subTeam: true
