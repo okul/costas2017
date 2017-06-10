@@ -52,7 +52,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Computational and Statistical Methods in Applied Science"
+confType: "International Conference on"
+heroTitle: "Computational and Statistical Methods in Applied Sciences"
 heroTitleShort: "COSTAS 2017"
 eventDate: "November 9-11, 2017"
 typeoutTextValues: '"9", "10", "11"'

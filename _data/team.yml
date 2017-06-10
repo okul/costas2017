@@ -107,6 +107,120 @@
   title: "Expert Staff in UZEM"
   team: true
 -
+  id: 112
+  name: "Biresh K."
+  surname: "Sahoo"
+  title: "Prof. Dr. - Xavier University Bhubaneswar"
+  subTeam: true
+-
+  id: 113
+  name: "R. Kazemi"
+  surname: "Matin"
+  title: "Prof. Dr. - Islamic Azad university"
+  subTeam: true
+-
+  id: 114
+  name: "Frank"
+  surname: "Coolen"
+  title: "Prof. Dr. - Durham University"
+  subTeam: true
+-
+  id: 115
+  name: "Shu Chin"
+  surname: "Huang"
+  title: "Assoc. Prof. - Ming Chuan University"
+  subTeam: true
+-
+  id: 116
+  name: "Marcel"
+  surname: "Vieira"
+  title: "Assoc. Prof. - Federal University of Juiz de Fora"
+  subTeam: true
+-
+  id: 89
+  name: "Josef"
+  surname: "Jablonsky"
+  title: "Prof. Dr. - Prague University of Economics"
+  subTeam: true
+-
+  id: 90
+  name: "David F."
+  surname: "Percy"
+  title: "Prof. Dr. - Salford University"
+  subTeam: true
+-
+  id: 91
+  name: "Ali"
+  surname: "Emrouznejad"
+  title: "Prof. Dr. - Aston University"
+  subTeam: true
+-
+  id: 92
+  name: "İbrahim H."
+  surname: "Osman"
+  title: "Prof. Dr. - American University of Beirut"
+  subTeam: true
+-
+  id: 93
+  name: "Mohamed"
+  surname: "Deara"
+  title: "Dr. - University of The Western Mountaion"
+  subTeam: true
+-
+  id: 94
+  name: "Adel"
+  surname: "Alsharkasi"
+  title: "Assoc. Prof. - University of Benghazi"
+  subTeam: true
+-
+  id: 96
+  name: "Salih "
+  surname: "Katircioglu"
+  title: "Prof. Dr. - Eastern Mediterranean University"
+  subTeam: true
+-
+  id: 57
+  name: "Assia Guezane"
+  surname: "Lakoud"
+  title: "Prof. Dr. - Badji Mokhtar - Annaba University"
+  subTeam: true
+-
+  id: 28
+  name: "Hamlet"
+  surname: " Isaxanli"
+  title: "Prof. Dr. - Khazar University Founder"
+  subTeam: true
+- 
+  id: 35
+  name: "Rahib"
+  surname: "Abiyev"
+  title: "Prof. Dr. - Yakin Dogu University"
+  subTeam: true
+-
+  id: 97
+  name: "Mehdi"
+  surname: "Toloo"
+  title: "Prof. Dr. - The Technical University of Ostrava"
+  subTeam: true
+-
+  id: 98
+  name: "Behrouz"
+  surname: "Arabi"
+  title: "Dr. - University of Porto"
+  subTeam: true
+-
+  id: 99
+  name: "Dimitris K."
+  surname: "Despotis"
+  title: "Prof. Dr. - University of Piraeus"
+  subTeam: true
+-
+  id: 100
+  name: "Kaoru"
+  surname: "Tone"
+  title: "Prof. Dr. - Heriot-Watt University"
+  subTeam: true
+-
   id: 10
   name: "Hüsnü"
   surname: "Demirsoy"
@@ -209,12 +323,6 @@
   title: "Prof. Dr. - Middle East Technical University"
   subTeam: true
 -
-  id: 28
-  name: "Hamlet"
-  surname: " Isaxanli"
-  title: "Prof. Dr. - Khazar University Founder"
-  subTeam: true
--
   id: 29
   name: "Ahmet"
   surname: "Ozcelik"
@@ -249,12 +357,6 @@
   name: "Cennet"
   surname: "Oguz"
   title: "Prof. Dr. - Selcuk University"
-  subTeam: true
-- 
-  id: 35
-  name: "Rahib"
-  surname: "Abiyev"
-  title: "Prof. Dr. - Yakin Dogu University"
   subTeam: true
 -
   id: 36
@@ -387,12 +489,6 @@
   name: "Kenan"
   surname: "Ozden"
   title: "Prof. Dr. - Istanbul Gelisim University"
-  subTeam: true
--
-  id: 57
-  name: "Assia Guezane"
-  surname: "Lakoud"
-  title: "Prof. Dr. - Badji Mokhtar - Annaba University"
   subTeam: true
 -
   id: 58
@@ -581,76 +677,10 @@
   title: "Asst. Prof. - Gazi University"
   subTeam: true
 -
-  id: 89
-  name: "Josef"
-  surname: "Jablonsky"
-  title: "Prof. Dr. - Prague University of Economics"
-  subTeam: true
--
-  id: 90
-  name: "David F."
-  surname: "Percy"
-  title: "Prof. Dr. - Salford University"
-  subTeam: true
--
-  id: 91
-  name: "Ali"
-  surname: "Emrouznejad"
-  title: "Prof. Dr. - Aston University"
-  subTeam: true
--
-  id: 92
-  name: "İbrahim H."
-  surname: "Osman"
-  title: "Prof. Dr. - American University of Beirut"
-  subTeam: true
--
-  id: 93
-  name: "Mohamed"
-  surname: "Deara"
-  title: "Dr. - University of The Western Mountaion"
-  subTeam: true
--
-  id: 94
-  name: "Adel"
-  surname: "Alsharkasi"
-  title: "Assoc. Prof. - University of Benghazi"
-  subTeam: true
--
   id: 95
   name: "Ozgur"
   surname: "Yeniay"
   title: "Prof. Dr. - Hacettepe University"
-  subTeam: true
--
-  id: 96
-  name: "Salih "
-  surname: "Katircioglu"
-  title: "Prof. Dr. - Eastern Mediterranean University"
-  subTeam: true
--
-  id: 97
-  name: "Mehdi"
-  surname: "Toloo"
-  title: "Prof. Dr. - The Technical University of Ostrava"
-  subTeam: true
--
-  id: 98
-  name: "Behrouz"
-  surname: "Arabi"
-  title: "Dr. - University of Porto"
-  subTeam: true
--
-  id: 99
-  name: "Dimitris K."
-  surname: "Despotis"
-  title: "Prof. Dr. - University of Piraeus"
-  subTeam: true
--
-  id: 100
-  name: "Kaoru"
-  surname: "Tone"
-  title: "Prof. Dr. - Heriot-Watt University"
   subTeam: true
 -
   id: 105
@@ -693,34 +723,4 @@
   name: "Pelin"
   surname: "Kasap"
   title: "Assoc. Prof.  - Ondokuz Mayis University"
-  subTeam: true
--
-  id: 112
-  name: "Biresh K."
-  surname: "Sahoo"
-  title: "Prof. Dr. - Xavier University Bhubaneswar"
-  subTeam: true
--
-  id: 113
-  name: "R. Kazemi"
-  surname: "Matin"
-  title: "Prof. Dr. - Islamic Azad university"
-  subTeam: true
--
-  id: 114
-  name: "Frank"
-  surname: "Coolen"
-  title: "Prof. Dr. - Durham University"
-  subTeam: true
--
-  id: 115
-  name: "Shu Chin"
-  surname: "Huang"
-  title: "Assoc. Prof. - Ming Chuan University"
-  subTeam: true
--
-  id: 116
-  name: "Marcel"
-  surname: "Vieira"
-  title: "Assoc. Prof. - Federal University of Juiz de Fora"
   subTeam: true
