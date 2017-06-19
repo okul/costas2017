@@ -66,21 +66,33 @@
   team: true
 -
   id: 20
-  name: "Murat "
+  name: "Murat"
   surname: "Sagir"
-  title: "Res. Asst. "
+  title: "Res. Asst."
   team: true
 -
   id: 21
-  name: "Burçin "
+  name: "Burçin"
   surname: "Çorba"
-  title: "Res. Asst. "
+  title: "Res. Asst."
   team: true
 -
   id: 22
-  name: "Erdinç "
+  name: "Erdinç"
   surname: "Yücesoy"
-  title: "Res. Asst. "
+  title: "Res. Asst."
+  team: true
+-
+  id: 20
+  name: "Selin Ceren"
+  surname: "Turan"
+  title: "Res. Asst."
+  team: true
+-
+  id: 20
+  name: "Hasan"
+  surname: "Civanbay"
+  title: "Res. Asst."
   team: true
 -
   id: 20
@@ -723,4 +735,10 @@
   name: "Pelin"
   surname: "Kasap"
   title: "Assoc. Prof.  - Ondokuz Mayis University"
+  subTeam: true
+-
+  id: 112
+  name: "Haydar"
+  surname: "Koç"
+  title: "Asst. Prof. - Cankiri Karatekin University"
   subTeam: true
