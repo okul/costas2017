@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "COSTAS 2017"
 email: "costas2017@omu.edu.tr"
 description: "COSTAS 2017"
-baseurl: "/"
+baseurl: ""
 url: "http://costas2017.omu.edu.tr"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
