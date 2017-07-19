@@ -233,6 +233,12 @@
   title: "Prof. Dr. - Heriot-Watt University"
   subTeam: true
 -
+  id: 120
+  name: "Francisco"
+  surname: "Vargas"
+  title: "Prof. Dr. - University of Sonora"
+  subTeam: true
+-
   id: 10
   name: "Hüsnü"
   surname: "Demirsoy"
