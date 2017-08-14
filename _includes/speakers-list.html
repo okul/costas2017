@@ -21,8 +21,8 @@
                                 {% endif %}
                                 {% if site.showSessions %}
                                 <figcaption>
-                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
+                                    <h2 class="name" style="color:#000">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                    <p class="position" style="color:#000">{{ speaker.company }}</p>
                                 </figcaption>
                                 {% endif %}
                             </figure>
@@ -30,15 +30,15 @@
                         <div class="lily-bottom">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
-                                {% if site.showSessions %} 
-                                    {% for session in site.data.sessions %} 
-                                        {% for session_speaker in session.speakers %} 
+                                {% if site.showSessions %}
+                                    {% for session in site.data.sessions %}
+                                        {% for session_speaker in session.speakers %}
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
                                                 <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
-                                            {% endif %} 
-                                        {% endfor %} 
-                                    {% endfor %} 
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endfor %}
                                 {% else %}
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
@@ -49,7 +49,7 @@
                     </div>
                 </div>
                 {% endfor %}
-            </div> 
+            </div>
             <p>Soon available</p>
         </div>
     </div>

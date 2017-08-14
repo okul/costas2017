@@ -1,0 +1,20 @@
+-
+  id: 1
+  name: "Hamparsum"
+  surname: "BOZDOĞAN"
+  company: "University of Tennessee, USA."
+  title: "Prof. Dr."
+  bio: "He joined the faculty in the fall of 1990. Prior to coming to UTK he was on the faculty of the University of Virginia in the Department of Mathematics, and was a Visiting Professor and Research Fellow at the Institute of Statistical Mathematics in Tokyo, Japan. He holds a B.S. degree in Mathematics from the University of Wisconsin, and M.S. and Ph.D. degrees in Mathematics, Probability and Statistics from the University of Illinois in Chicago (UIC).
+        His research specializations and interests are in informational approach to statistical model building and evaluation problems; multivariate statistical modeling and data analysis; combinatorial classification and mixture-model cluster analysis problems; linear and nonlinear multivariate models and structural complexity; covariance complexity measure; complexity of inverse-Fisher information matrix as a criterion for model identification; statistical information theory; Bayesian and econometric modeling; symbolic open architecture statistical computing in macro language environment and developing expert information-theoretic statistical techniques.
+        Prof. Dr. Bozdoğan is one of the nationally and internationally known experts in the area of informational statistical modeling. In particular, he has developed unique measures of informational complexity in statistics for model selection and validation, and extended them in an extensive research program to a wide variety of applications. He is the recipient of many distinguished awards, one of which is the prestigious Chancellor's Award for Research and Creative Achievement in 1993 at UTK. He is the editor of the three-volume set of the Proceedings of the First US/Japan Conference on Frontiers of Statistical Modeling: An Informational Approach.
+        <br><b>Research Areas:</b>
+        <br> - Statistical Information Theory & Entropy Complexity.
+        <br> - Covariance complexity measure; complexity of inverse.
+        <br> - Fisher information matrix (ICOMP) as a criterion for model identification.
+        <br> - High dimensional intelligent multivariate data mining.
+        <br> - Healthcare analytics, medical data mining, statistical modeling approach to cancer detection.
+        <br> - Evolutionary and genetic algorithms
+        <br> - Model selection problems in machine learning."
+  thumbnailUrl: "HamparsumBozdogan.jpg"
+  social:
+    - { name: "site", link: "http://web.utk.edu/~bozdogan/" }
