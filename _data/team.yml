@@ -1,17 +1,17 @@
 -
-  id: 0 
+  id: 0
   name: "Mehmet Ali"
   surname: "Cengiz"
   title: "Prof. Dr. - Chair of COSTAS2017"
   team: true
 -
-  id: 1 
+  id: 1
   name: "İzzet"
   surname: "Akça"
   title: "Prof. Dr. - Director of UZEM"
   team: true
 -
-  id: 2 
+  id: 2
   name: "Recai"
   surname: "Oktaş"
   title: "Asst. Prof."
@@ -202,7 +202,7 @@
   surname: " Isaxanli"
   title: "Prof. Dr. - Khazar University Founder"
   subTeam: true
-- 
+-
   id: 35
   name: "Rahib"
   surname: "Abiyev"
@@ -370,7 +370,7 @@
   surname: "Bekiroglu"
   title: "Prof. Dr. - Marmara University"
   subTeam: true
-- 
+-
   id: 34
   name: "Cennet"
   surname: "Oguz"
@@ -561,7 +561,7 @@
   name: "Elcin "
   surname: "Yusufoglu"
   title: "Prof. Dr. - Usak University"
-  subTeam: true	
+  subTeam: true
 -
   id: 67
   name: "Marat "
@@ -621,7 +621,7 @@
   name: "Mufit "
   surname: "Cetin"
   title: "Assoc. Prof. - Yalova University"
-  subTeam: true	
+  subTeam: true
 -
   id: 77
   name: "Ahmet"
@@ -753,4 +753,11 @@
   name: "Leman"
   surname: "Tomak"
   title: "Asst. Prof. - Ondokuz Mayis University"
+  subTeam: true
+
+-
+  id: 114
+  name: "Hamparsum"
+  surname: "BOZDOĞAN"
+  title: "Prof. Dr. - University of Tennessee"
   subTeam: true
