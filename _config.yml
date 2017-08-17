@@ -59,7 +59,7 @@ eventDate: "November 9-11, 2017"
 typeoutTextValues: '"9", "10", "11"'
 heroButtons:
  - {link: "http://pay.uzem.omu.edu.tr", text: "Registration"}
- - {link: "http://openconf.uzem.omu.edu.tr", text: "Submit Paper"}
+ - {link: "http://costas2017.omu.edu.tr/abstract-submission/ ", text: "Submit Paper"}
 
 # About Block
 aboutTitle: "About COSTAS 2017"
