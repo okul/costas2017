@@ -758,6 +758,20 @@
 -
   id: 114
   name: "Hamparsum"
-  surname: "BOZDOĞAN"
+  surname: "Bozdoğan"
   title: "Prof. Dr. - University of Tennessee"
+  subTeam: true
+
+-
+  id: 115
+  name: "Esra"
+  surname: "Pamukçu"
+  title: "Asst. Prof. - Fırat University "
+  subTeam: true
+
+-
+  id: 116
+  name: "Elçin Kartal"
+  surname: "Koç"
+  title: "Dr. - Middle East Technical University "
   subTeam: true
