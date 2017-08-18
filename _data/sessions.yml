@@ -3,6 +3,19 @@
   name: "Hamparsum"
   surname: "BOZDOĞAN"
   title: "Prof. Dr."
-  company: "University of Tennessee, USA."
+  company: "University of Tennessee, USA"
   speakers: [1]
-  # language: en
+-
+  id: 2
+  name: "Narayanaswamy"
+  surname: "Balakrishnan"
+  title: "Prof. Dr."
+  company: "McMaster University, Canada"
+  speakers: [2]
+-
+  id: 3
+  name: "David"
+  surname: "Percy"
+  title: "Prof. Dr."
+  company: "Salford University, United Kingdom"
+  speakers: [3]

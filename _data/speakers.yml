@@ -18,3 +18,35 @@
   thumbnailUrl: "bozdogan.png"
   social:
     - { name: "site", link: "http://web.utk.edu/~bozdogan/" }
+
+-
+  id: 2
+  name: "Narayanaswamy"
+  surname: "Balakrishnan"
+  company: "McMaster University, Canada"
+  title: "Prof. Dr."
+  bio: "Professor Narayanaswamy Balakrishnan is the Professor of Statistics at Department of Mathematics and Statistics in McMaster University, Canada.<br>
+        His research interests are in order statistics, outliers, distribution theory, statistical inference, records, multivariate analysis, and industrial statistics.
+        Order statistics arise naturally in many problems such as life-testing and reliability experiments, outlier detection, robust inference, etc.
+        My work in this area covers both theoretical (like bounds, approximations, recurrence relations, characterizations, etc.) as well as applied (like linear inference, acceptance sampling plans, tolerance limits, prediction, etc.) aspects.
+        He also studies on statistical distribution theory. He has developed new distributions, developing inference techniques for several distributions, and deriving characterizations of distributions.
+        His most recent work concerns order statistics under non-standard conditions. "
+  thumbnailUrl: "balakrishnan.jpg"
+
+-
+  id: 3
+  name: "David"
+  surname: "Percy"
+  company: "Salford University, United Kingdom"
+  title: "Prof. Dr."
+  bio: "Professor David Percy is the Professor of Mathematics at Salford Business School in Salford University, United Kingdom.<br>
+        He is Associate Director of the Centre for Sports Business, Chair of the Research,
+        Enterprise and Engagement Ethics Approval Panel, and Member of the School Ethics Committee.
+        He delivers lectures and tutorials for undergraduate and postgraduate students, and has experience as visiting professor,
+        external examiner, reviewer, editor, referee, research committee member, academic investigator, research convener,
+        doctoral supervisor, program leader, module leader, internal examiner, industrial placements tutor and admissions tutor.
+        Prof. Percy holds honorary positions for the Institute of Mathematics and its Applications as Chair of the Mathematics Today Editorial Board,
+        Chair of the Conferences Committee, a Member of the Finance Committee and a Member of the North West Branch Committee,
+        having previously served as a Member of Council and Chair of the NWB Committee. He is also a Member of the Mathematical Methods in Reliability Joint Research Group
+        and previously served as Chair of the General Applications Section of the Royal Statistical Society."
+  thumbnailUrl: "DavidPercy.jpg"
