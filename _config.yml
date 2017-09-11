@@ -91,7 +91,7 @@ mapMobileCenterCoordinates: "41.3691922, 36.1980414"
 # Important Dates
 importantDates:
   - {description: "Deadline For Abstract Submission", date: "7.10.2017"}
-  - {description: "Registration Deadline", date: "15.09.2017"}
+  - {description: "Early Registration Deadline", date: "<span style='color:red;text-decoration:line-through'><span style='color:#333333'>15.09.2017</span></span><br>01.10.2017"}
   - {description: "Late Registration Deadline", date: "15.10.2017"}
   - {description: "Conference Date", date: "9-10-11 November 2017"}
 
@@ -150,7 +150,7 @@ ticketsOffers:
   price4: "90"
   price4Currency: "€"
  -
-  name: "Accompany Person"
+  name: "Accompany Person & Daily Registration"
   price1: "150"
   price1Currency: "₺"
   price2: "150"
