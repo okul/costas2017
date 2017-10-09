@@ -5,6 +5,24 @@
   title: "Prof. Dr. - Chair of COSTAS2017"
   team: true
 -
+  id: 623
+  name: "Hamparsum"
+  surname: "Bozdoğan"
+  title: "Prof. Dr. - Keynote Speaker"
+  team: true
+-
+  id: 624
+  name: "Narayanaswamy"
+  surname: "Balakrishnan"
+  title: "Prof. Dr. - Keynote Speaker"
+  team: true
+-
+  id: 625
+  name: "David"
+  surname: "Percy"
+  title: "Prof. Dr. - Keynote Speaker"
+  team: true
+-
   id: 1
   name: "İzzet"
   surname: "Akça"
@@ -110,12 +128,6 @@
   id: 22
   name: "İrfan"
   surname: "Subaş"
-  title: "Expert Staff in UZEM"
-  team: true
--
-  id: 23
-  name: "Mustafa"
-  surname: "Altınkaynak"
   title: "Expert Staff in UZEM"
   team: true
 -
