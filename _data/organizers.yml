@@ -4,3 +4,4 @@
     - {name: "OMÜ", description: "Ondokuz Mayis University", link: "http://omu.edu.tr/", imageUrl: "organizer-omu.png"}
     - {name: "OMÜ UZEM", description: "OMÜ UZEM - OMÜ Distance Education Center", link: "http://uzem.omu.edu.tr/", imageUrl: "organizer-uzem.png"}
     - {name: "OMÜ Department of Statistics", description: "OMÜ Department of Statistics", link: "http://fef.omu.edu.tr/akademik/istatistik-bolumu", imageUrl: "organizer-istatistik.png"}
+    - {name: "Eistatistik", description: "Eistatistik", link: "https://eistatistik.com", imageUrl: "organizer-eistatistik.png"}
