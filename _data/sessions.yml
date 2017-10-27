@@ -19,3 +19,11 @@
   title: "Prof. Dr."
   company: "Salford University, United Kingdom"
   speakers: [3]
+
+-
+  id: 4
+  name: "Yüksel"
+  surname: "Bek"
+  title: "Prof. Dr."
+  company: "Ondokuz Mayıs Üniversitesi, Biyoistatistik Bölümü"
+  speakers: [4]
