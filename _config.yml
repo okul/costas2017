@@ -41,6 +41,7 @@ navigationLinks:
  # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/topics/", text: "Call for Paper"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
+ - {permalink: "/conference-program/", text: "Conference Program"}
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/important-dates/", text: "Important Dates"}
  - {permalink: "/abstract-submission/", text: "Submission"}
@@ -97,6 +98,9 @@ importantDates:
 
 # Abstract Submission
 submissionTemplateUrl: "/assets/Submission_Template_COSTAS_2017.docx"
+
+# Conference Program
+conferenceProgramUrl: "/assets/costas-conference-program.pdf"
 
 # Venue Block
 venueBlockTitle: "Venue"
