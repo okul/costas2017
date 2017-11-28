@@ -39,9 +39,9 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  # - {permalink: "/", text: "Home"}
  # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/abstract-book/", text: "Abstract Book", blink: true}
  - {permalink: "/topics/", text: "Call for Paper"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
- - {permalink: "/abstract-book/", text: "Abstract Book"}
  - {permalink: "/conference-program/", text: "Conference Program"}
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/important-dates/", text: "Important Dates"}
