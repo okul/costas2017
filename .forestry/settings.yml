@@ -9,12 +9,6 @@ sections:
   label: Sayfa İçerikleri
   create: documents
   match: "**/*"
-- type: directory
-  path: _data
-  label: Veriler
-  create: documents
-  match: "**/*"
-  new_doc_ext: yml
 - type: jekyll-posts
   label: Posts
   create: all
