@@ -1,4 +1,6 @@
 # Plugins
+plugins:
+- jekyll-menus
 gems:
 - jekyll-sitemap
 safe: false
