@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _data
+  label: Veriler
+  create: documents
+  match: "**/*"
+- type: directory
   path: _includes
   label: Sayfa İçerikleri
   create: documents
