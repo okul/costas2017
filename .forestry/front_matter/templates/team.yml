@@ -2,4 +2,7 @@
 label: team
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: ad_soyad
+  label: Ad Soyad
